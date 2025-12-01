@@ -14,19 +14,27 @@
 
 </div>
 
-🎯 **Backend Developer** specialized in **Django** 🐍  
-💡 Passionate about building **scalable** and **secure** backend systems  
-🔧 Love solving **complex problems** and writing **clean, maintainable code**  
-🎓 Currently pursuing **B.Sc. in Computer Engineering** at **Islamic Azad University**  
-🌱 Always learning and exploring new technologies  
+---
+
+🎯 **Backend Developer** specialized in **Django** & **FastAPI** & **Python**
+
+💡 Passionate about building **scalable, secure, and high-performance** backend systems
+
+🔧 Experienced in **async programming**, **concurrency** and solving **complex problems**
+
+🤖 Skilled in **Telegram bot development** with **clean Architecture**
+
+🧩 Strong focus on writing **clean-structured**, **maintainable**, and **modular code**
+
+🎓 Currently pursuing **B.Sc. in Computer Engineering** at **Islamic Azad University**
+
+🌱 Always **learning, experimenting, and exploring new technologies**
 
 ---
 
 <div align="center">
 
 ## ⚡ Technical Skills
-
-</div>
 
 <table align="center">
 <tr>
@@ -47,7 +55,13 @@
 ### 📩 **Async & Message Brokers**
 ![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Celery Beat](https://img.shields.io/badge/Celery_Beat-37B24D?style=for-the-badge&logo=celery&logoColor=white)
+![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Multiprocessing](https://img.shields.io/badge/Concurrent_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🤖 **Bot Development & IoT(Basic)**
+![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+![IoT](https://img.shields.io/badge/Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 </td>
 <td align="center" width="50%">
@@ -71,12 +85,17 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### 🎯 **Software Architecture**
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF6B6B?style=for-the-badge&logo=blueprint&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-239120?style=for-the-badge&logo=&logoColor=white)
+
+
 </td>
 </tr>
 </table>
 
 ---
-
 <div align="center">
 
 ## 📊 GitHub Statistics
