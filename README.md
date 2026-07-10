@@ -1,152 +1,207 @@
 <div align="center">
 
-# Hi there, I'm Amirhossein Babaee! 👋
+<!-- ═══════════════════ HEADER ═══════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Amirhosein%20Babaee&fontSize=48&fontColor=36BCF7&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%E2%80%A2%20Python%20%E2%80%A2%20FastAPI%20%E2%80%A2%20Django&descAlignY=57&descSize=17&descColor=8b949e" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+Specialist;Python+Enthusiast;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Building+Production+Microservices+in+Python;Clean+Architecture+%E2%80%A2+Raw-SQL+Performance;Creator+of+secure-token+on+PyPI;Shipping+APIs+that+respond+in+~150ms" alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/amirhosein-babaee/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c2128" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://t.me/A_H_B_10"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1c2128" alt="Telegram"/></a>
+&nbsp;
+<a href="mailto:amirhoosenbabai82@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c2128" alt="Gmail"/></a>
+&nbsp;
+<a href="https://gitlab.com/amirhosein2004"><img src="https://img.shields.io/badge/GitLab-Follow-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=1c2128" alt="GitLab"/></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=amirhosein2004&color=36BCF7&style=flat-square&label=Profile+Views"/>
 
 </div>
 
----
+<br/>
 
-<div align="center">
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-## 🚀 About Me
+```python
+class AmirhoseinBabaee:
+    role        = "Backend Developer @ Heptapeak"
+    experience  = "2+ years of production microservices"
+    core_stack  = ["Python", "FastAPI", "Django", "PostgreSQL", "Redis"]
+    obsessions  = ["Clean Architecture", "Raw-SQL Performance", "System Design"]
+    now_playing = "Going full-stack — learning frontend, one component at a time"
+    belief      = "Anything can be implemented — you just have to want it."
+```
 
-</div>
-
----
-
-🎯 **Backend Developer** specialized in **Django** & **FastAPI** & **Python**
-
-💡 Passionate about building **scalable, secure, and high-performance** backend systems
-
-🔧 Experienced in **async programming**, **concurrency** and solving **complex problems**
-
-🤖 Skilled in **Telegram bot development** with **clean Architecture**
-
-🧩 Strong focus on writing **clean-structured**, **maintainable**, and **modular code**
-
-🎓 Currently pursuing **B.Sc. in Computer Engineering** at **Islamic Azad University**
-
-🌱 Always **learning, experimenting, and exploring new technologies**
-
----
-
-<div align="center">
-
-## ⚡ Technical Skills
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
-### 🐍 **Backend Development**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+#### 💼 What I do
 
-### 🗄️ **Database & Caching**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 📩 **Async & Message Brokers**
-![Celery](https://img.shields.io/badge/Celery-37B24D?style=for-the-badge&logo=celery&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Asyncio](https://img.shields.io/badge/Asyncio-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Multiprocessing](https://img.shields.io/badge/Concurrent_Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🤖 **Bot Development & IoT(Basic)**
-![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
-![IoT](https://img.shields.io/badge/Microcontrollers-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+- 🌍 Shipping **payment & AI-integrated services** for international clients — **Stripe**, **Google Cloud Storage**, **Gemini API**
+- ⚡ High-performance **FastAPI** endpoints — typically under **~150ms**
+- 🗃️ **Raw SQL, no ORM** — heavy report queries **~60% faster**
+- 🕸️ Web crawlers & data pipelines — **~10k records/day**
 
 </td>
-<td align="center" width="50%">
+<td valign="top" width="50%">
 
-### 🔌 **API & Protocols**
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+#### 🧭 What drives me
 
-### 🚀 **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 💻 **Frontend (Basic)**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🎯 **Software Architecture**
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF6B6B?style=for-the-badge&logo=blueprint&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-239120?style=for-the-badge&logo=&logoColor=white)
-
+- 📦 Maintaining [**secure-token**](https://pypi.org/project/secure-token/) — open-source security package on **PyPI**
+- 🤖 **AI-assisted dev workflows** — custom commands & structured context, **~30% faster delivery**
+- 🧩 **Microservices · SOLID · API Versioning · Redis caching**
+- 🎓 B.Sc. Computer Engineering @ **Azad University**
 
 </td>
 </tr>
 </table>
 
----
+<br/>
+
+<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Stack
+
 <div align="center">
 
-## 📊 GitHub Statistics
+### Core Arsenal
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,flask,postgres,redis,mongodb,rabbitmq&perline=8" alt="Core stack"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,githubactions,gcp,graphql,bash&perline=8" alt="DevOps stack"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirhosein2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein2004&layout=compact&langs_count=8&theme=tokyonight"/>
+<br/>
+
+### Also in the toolbox
+
+<img src="https://img.shields.io/badge/Celery-37B24D?style=flat-square&logo=celery&logoColor=white"/> <img src="https://img.shields.io/badge/Asyncio-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/> <img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white"/> <img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white"/> <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white"/> <img src="https://img.shields.io/badge/Telegram_Bots-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
+
+<br/>
+
+### How I think
+
+`Microservices` · `Clean Architecture` · `Layered Architecture` · `SOLID` · `System Design` · `API Versioning` · `Caching Strategies`
 
 </div>
 
-<div align="center">
+<br/>
 
-## 🔥 GitHub Streak
+<!-- ═══════════════════ PROJECTS ═══════════════════ -->
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Featured Projects
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amirhosein2004&theme=tokyonight" alt="GitHub Streak" />
+<table>
+<tr>
+<td width="33%" valign="top" align="center">
 
-</div>
+<br/>
 
----
+### 🔐 secure-token
 
-<div align="center">
+<img src="https://img.shields.io/badge/PyPI-Published-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
 
-## 🌐 Connect with Me
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/amirhosein-babaee/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/amirhosein2004">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://t.me/A_H_B_10">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
-<a href="mailto:amirhoosenbabai82@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+<div align="left">
+
+Open-source **encrypted-token security package**. Modular core, multi-framework support, customizable payload & permissions, automated CI/CD publishing.
 
 </div>
 
----
+`Python` `Cryptography` `CI/CD`
 
-<div align="center">
+<br/>
 
-### 💭 Quote
+[**→ View on PyPI**](https://pypi.org/project/secure-token/)
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+</td>
+<td width="33%" valign="top" align="center">
+
+<br/>
+
+### 🏗️ Construction ERP
+
+<img src="https://img.shields.io/badge/Status-Published-2ea043?style=for-the-badge"/>
+
+<br/><br/>
+
+<div align="left">
+
+Modular ERP for **construction project management** — layered architecture, API versioning, real-time **WebSocket** dashboard, **Redis** caching, **~40% less DB load**.
 
 </div>
 
+`Django` `PostgreSQL` `Redis` `Docker`
+
+<br/>
+
+**Backend Developer**
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<br/>
+
+### 🦷 sbdental
+
+<img src="https://img.shields.io/badge/Status-Live-2ea043?style=for-the-badge"/>
+
+<br/><br/>
+
+<div align="left">
+
+Multi-doctor **dental practice platform** — CMS, admin dashboard, intelligent caching, Celery automation. Built **end-to-end**: backend → frontend → deployment.
+
+</div>
+
+`Django` `Celery Beat` `Nginx` `Docker`
+
+<br/>
+
+**Full-Stack Delivery**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════ STATS ═══════════════════ -->
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="30"> GitHub Analytics
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=amirhosein2004&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/amirhosein2004?label=Follow&style=social)](https://github.com/amirhosein2004)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amirhosein2004&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=36BCF7&icon_color=36BCF7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein2004&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=36BCF7"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=amirhosein2004&theme=tokyonight&hide_border=true&background=00000000&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amirhosein2004&theme=tokyo-night&hide_border=true&bg_color=00000000&color=36BCF7&line=36BCF7&point=ffffff&area=true&area_color=36BCF7" width="95%" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Anything%20can%20be%20implemented%20—%20you%20just%20have%20to%20want%20it.&author=Amirhosein%20Babaee" alt="Quote"/>
+
+<br/><br/>
+
+**💬 Open to collaboration on backend architecture, open-source security tooling & API design**
+
+<a href="https://www.linkedin.com/in/amirhosein-babaee/">LinkedIn</a> •
+<a href="https://gitlab.com/amirhosein2004">GitLab</a> •
+<a href="https://t.me/A_H_B_10">Telegram</a> •
+<a href="mailto:amirhoosenbabai82@gmail.com">Email</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
