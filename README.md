@@ -28,7 +28,7 @@
 
 ```python
 class AmirhoseinBabaee:
-    role        = "Backend Developer @ Heptapeak"
+    role        = "Backend Developer"
     experience  = "2+ years of production microservices"
     core_stack  = ["Python", "FastAPI", "Django", "PostgreSQL", "Redis"]
     obsessions  = ["Clean Architecture", "Raw-SQL Performance", "System Design"]
